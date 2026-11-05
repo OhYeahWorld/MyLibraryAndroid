@@ -1,0 +1,8 @@
+<resources>
+    <color name="navy">#24324A</color>
+    <color name="accent">#2F8F83</color>
+    <color name="background">#F3F5F8</color>
+    <color name="text_primary">#1F2937</color>
+    <color name="text_secondary">#657184</color>
+    <color name="danger">#C65353</color>
+</resources>
